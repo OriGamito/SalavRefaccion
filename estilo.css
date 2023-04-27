@@ -1,0 +1,168 @@
+body{
+
+    margin: 0;
+
+    padding: 0;
+
+    font-family: sans-serif;
+
+    background-image: url(slide2.jpg);
+
+    background-color: #ff7171;
+
+    background-size: cover;
+
+}
+
+
+
+.caja{
+
+    position: absolute;
+
+    top: 50%;
+
+    left: 50%;
+
+    transform: translate(-50%, -50%);
+
+    width: 400px;
+
+    padding: 40px;
+
+    background:  #eb2d2d;
+
+    box-sizing: border-box;
+
+    box-shadow: 0 15px 25px rgba(0,0,0, .5) ;
+
+    border-radius: 10px;
+
+}
+
+
+
+h2{
+
+    margin: 0 0 30px;
+
+    padding: 0;
+
+    color: #fff;
+
+    text-align: center;
+
+}
+
+
+
+.caja .inputcaja{
+
+    position: relative;
+
+}
+
+
+
+.caja .inputcaja input{
+
+    width: 100%;
+
+    padding: 10px 0;
+
+    font-size: 16px;
+
+    letter-spacing: 1px;
+
+    color: #fff;
+
+    margin-bottom: 30px;
+
+    border: none;
+
+    border-bottom: 1px solid #fff;
+
+    outline: none;
+
+    background: transparent;
+
+}
+
+
+
+.caja .inputcaja label{
+
+    position: absolute;
+
+    top: 0;
+
+    left: 0;
+
+    padding: 10px 0;
+
+    font-size: 16px;
+
+    color: #fff;
+
+    pointer-events: none;
+
+    transition: .5s;
+
+    
+
+    
+
+}
+
+
+
+.caja .inputcaja input:focus ~ label,
+
+.caja .inputcaja input:valid ~ label{
+
+    top: -23px;
+
+    left: 0;
+
+    color: 	#B0C4DE;
+
+    font-size: 12px
+
+}
+
+
+
+button[type="submit"]{
+
+    background: transparent;
+
+    border: none;
+
+    outline: none;
+
+    color: #fff;
+
+    background: #33333350;
+
+    padding: 10px 20px;
+
+    cursor: pointer;
+
+    border-radius: 5px;
+
+
+
+}
+button {
+    color: #fff;
+    width: 100%;
+    height: 50px;
+    border-radius: 25px;
+    background-color: blue;
+}
+#alerta{
+    background-color: #46464644;
+    font-size: 11px;
+    color: white;
+}
+

@@ -1,0 +1,90 @@
+[09-Feb-2023 22:36:02 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php on line 139
+[09-Feb-2023 22:38:10 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php on line 138
+[09-Feb-2023 22:40:31 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php on line 138
+[10-Feb-2023 20:06:43 UTC] PHP Warning:  Undefined variable $sql in /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php on line 150
+[10-Feb-2023 20:06:43 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php:150
+Stack trace:
+#0 /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php(150): mysqli_query(Object(mysqli), '')
+#1 {main}
+  thrown in /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php on line 150
+[10-Feb-2023 20:06:48 UTC] PHP Warning:  Undefined variable $sql in /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php on line 150
+[10-Feb-2023 20:06:48 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php:150
+Stack trace:
+#0 /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php(150): mysqli_query(Object(mysqli), '')
+#1 {main}
+  thrown in /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php on line 150
+[10-Feb-2023 20:06:55 UTC] PHP Warning:  Undefined variable $sql in /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php on line 150
+[10-Feb-2023 20:06:55 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php:150
+Stack trace:
+#0 /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php(150): mysqli_query(Object(mysqli), '')
+#1 {main}
+  thrown in /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php on line 150
+[10-Feb-2023 20:11:03 UTC] PHP Warning:  Undefined variable $sql in /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php on line 150
+[10-Feb-2023 20:11:03 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php:150
+Stack trace:
+#0 /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php(150): mysqli_query(Object(mysqli), '')
+#1 {main}
+  thrown in /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php on line 150
+[10-Feb-2023 21:32:18 UTC] PHP Warning:  Undefined variable $sql in /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php on line 150
+[10-Feb-2023 21:32:18 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php:150
+Stack trace:
+#0 /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php(150): mysqli_query(Object(mysqli), '')
+#1 {main}
+  thrown in /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php on line 150
+[10-Feb-2023 21:32:35 UTC] PHP Warning:  Undefined variable $sql in /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php on line 150
+[10-Feb-2023 21:32:35 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php:150
+Stack trace:
+#0 /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php(150): mysqli_query(Object(mysqli), '')
+#1 {main}
+  thrown in /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php on line 150
+[10-Feb-2023 21:33:18 UTC] PHP Warning:  Undefined variable $sql in /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php on line 150
+[10-Feb-2023 21:33:18 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php:150
+Stack trace:
+#0 /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php(150): mysqli_query(Object(mysqli), '')
+#1 {main}
+  thrown in /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php on line 150
+[10-Feb-2023 21:33:29 UTC] PHP Warning:  Undefined variable $sql in /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php on line 150
+[10-Feb-2023 21:33:29 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php:150
+Stack trace:
+#0 /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php(150): mysqli_query(Object(mysqli), '')
+#1 {main}
+  thrown in /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php on line 150
+[10-Feb-2023 21:34:06 UTC] PHP Warning:  Undefined variable $sql in /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php on line 150
+[10-Feb-2023 21:34:06 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php:150
+Stack trace:
+#0 /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php(150): mysqli_query(Object(mysqli), '')
+#1 {main}
+  thrown in /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php on line 150
+[10-Feb-2023 21:34:10 UTC] PHP Warning:  Undefined variable $sql in /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php on line 150
+[10-Feb-2023 21:34:10 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php:150
+Stack trace:
+#0 /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php(150): mysqli_query(Object(mysqli), '')
+#1 {main}
+  thrown in /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php on line 150
+[10-Feb-2023 22:48:25 UTC] PHP Warning:  Undefined variable $sql in /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php on line 150
+[10-Feb-2023 22:48:25 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php:150
+Stack trace:
+#0 /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php(150): mysqli_query(Object(mysqli), '')
+#1 {main}
+  thrown in /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php on line 150
+[10-Feb-2023 22:48:29 UTC] PHP Warning:  Undefined variable $sql in /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php on line 150
+[10-Feb-2023 22:48:29 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php:150
+Stack trace:
+#0 /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php(150): mysqli_query(Object(mysqli), '')
+#1 {main}
+  thrown in /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php on line 150
+[10-Feb-2023 22:48:33 UTC] PHP Warning:  Undefined variable $sql in /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php on line 150
+[10-Feb-2023 22:48:33 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php:150
+Stack trace:
+#0 /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php(150): mysqli_query(Object(mysqli), '')
+#1 {main}
+  thrown in /home/yespoint/public_html/apir/SalavRefaccion/bitacora_apk/bitacora_apk.php on line 150
